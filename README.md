@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hei
+Jeg heter Christian og bor i Bergen jeg har grunlegende kunskap innen HTML, CSS og Javaskript <br/>
+I 2024 startet jeg med HTML, CSS og JavaScript. <br /> 
+Jeg er også vent til å bruke hjelpemidler som W3Schools, Vercel,  
+
 
 <!--
 **Enforsix/Enforsix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
